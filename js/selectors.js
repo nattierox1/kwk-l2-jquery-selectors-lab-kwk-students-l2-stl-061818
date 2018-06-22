@@ -13,7 +13,7 @@ function liInOlSelector (){
   }
   
   function imageSelector (){
-    return $();
+    return $("alt=['cat sleeping']);
   }
   
   function checkboxInputSelector(){
