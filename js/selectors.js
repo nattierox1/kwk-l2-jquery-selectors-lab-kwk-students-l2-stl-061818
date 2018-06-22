@@ -13,7 +13,7 @@ function liInOlSelector (){
   }
   
   function imageSelector (){
-    return $(': cat sleeping')
+    return $(:image = 'cat sleeping')
   }
   
   function checkboxInputSelector(){
