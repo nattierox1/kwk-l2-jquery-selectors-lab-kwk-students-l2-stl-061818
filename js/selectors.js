@@ -9,13 +9,13 @@ function liInOlSelector (){
   }
   
   function linkSelector () {
-    return $('#box4.box5 a')
+    return $('#box4.box5 a');
   }
   
   function imageSelector (){
-    return $(:image = 'cat sleeping')
+    return $();
   }
   
   function checkboxInputSelector(){
-    return $(":checkbox")
+    return $(":checkbox");
   }
